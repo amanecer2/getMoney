@@ -1,0 +1,7 @@
+/**
+ * Created by amanecer on 03/05/2015.
+ */
+
+
+
+{"job":[{"name":"waitress","icon":"img/waitress.png","value":13,"adding":1},{"name":"busDriver","icon":"img/buss_driver.jpg","value":100,"adding":10},{"name":"lifeGuard","icon":"img/lifegurad.jpg","value":1500,"adding":130},{"name":"pilot","icon":"img/pilot.jpg","value":10000,"adding":1370}]}

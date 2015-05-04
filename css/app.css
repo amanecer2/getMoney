@@ -1,0 +1,21 @@
+body{
+    background-color: #52575c;
+    color:#ffffff;
+}
+
+.disableLike{
+    color:gray;
+
+}
+
+.disableLike img{
+    opacity: 0.2;
+    /*filter: alpha(opacity=40);  msie */
+}
+
+.box{
+
+    padding: 3px;
+
+}
+
